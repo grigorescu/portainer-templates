@@ -1,0 +1,15 @@
+{
+    "type": 3,
+    "name": "mayan",
+    "title": "Mayan EDMS",
+    "description": "Mayan EDMS is an electronic vault for your documents.",
+    "logo": "https://mediadepot.github.io/templates/img/mayan-logo.png",
+    "categories": [
+      "Documents:",
+      "Tools:"
+    ],
+    "repository": {
+      "url": "https://github.com/mediadepot/templates",
+      "stackfile": "stacks/mayan/docker-compose.yml"
+    }
+}
